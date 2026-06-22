@@ -34,22 +34,6 @@ A smart AI chatbot built using Retrieval-Augmented Generation (RAG) that provide
 5. User asks a question  
 6. Relevant data is retrieved  
 7. LLM (Llama3.2) generates final answer
----
-
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python ingest.py
-python app.py
-```
-
-Then open:
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 💬 Example Questions
 
@@ -57,34 +41,3 @@ http://127.0.0.1:5000
 - What is the pricing?
 - What is reimbursement policy?
 - What is CloudSync?
-
----
-
-## 🎯 Key Learning
-
-- Built real-world RAG pipeline  
-- Learned vector databases and embeddings  
-- Integrated LLM using Ollama  
-- Created full-stack AI application  
-
----
-
-## 🔥 Future Improvements
-
-- Add PDF upload feature  
-- Add voice input  
-- Improve UI with animations  
-- Deploy on cloud  
-
----
-
-## 👩‍💻 Author
-
-**Riya Mali**  
-Aspiring AI/ML Developer 🚀  
-
----
-
-## ⭐ Give a Star
-
-If you like this project, please give it a ⭐ on GitHub!
